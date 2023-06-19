@@ -4,7 +4,7 @@
  
  🌱 Estou estudando e aprofundando meus conhecimentos em Devops 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mlbsantos2018">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlbsantos2018&layout=compact&langs_count=7&theme=dracula"/>
 </div>
